@@ -1,0 +1,83 @@
+OOPS ---> Object Oriented Programming Structure
+===
+
+In a form of 
+
+Class ---> Combination of methods and Object
+
+Method ---> Set of Actions to be perform
+
+Object ---> 
+ 
+                  * Instance of Class
+                  
+                  * Its Allocate Memory
+                  
+                  * To call the method with using Object
+                  
+                  
+ Concepts :
+ ========
+ 
+ * Inheritance :
+ =============
+ 
+    Single ---> Accessing one Parent class property into one child class
+    
+    Multiple --> Two Parent class accessing one child class it is not possible in Java
+    
+                 * Because or priority issues  we overcome this disadvantage using interface
+                 
+    MultiLevel ---> One Class property is accessed by one child class which is being accessed by another child class
+    
+    Hierarchical ---> One parent class property accessed by two or more child classes
+    
+    Hybird ---> Combination of single and multiple
+ 
+ * Polymorphism :
+   ============
+      
+                     One Task Can be completed in Many Way
+                     
+                     + MethodOverloading
+                     
+                                    * In a Same Class Methods name will be same parameters will be different
+                                    
+                                    * based on DataType , DataCount and Data Order
+                                    
+                                    
+                    + MethodOverriding :
+                    
+                                          * There is two different class method name and parameters will be same
+ 
+ * Abstraction :
+   ==========
+   
+                Hiding the Implementation Path
+                
+                
+                * Abstract Class                              * Interface
+                
+                + Its Support both Abstract and               + Only Support Abstract Method
+                   Non Abstract Method
+                
+                
+                + extends                                     + Implements
+                
+                
+                + Partial Abstraction                         + Fully Abstraction           
+                
+ 
+ * Encapsulation
+ ===============
+ 
+    Binding Code and Data together single entity
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,11 @@
+Constructor:
+==========
+
+* A Class Name and Constructor name will be same
+
+* They is no return type (Void)
+
+* There is two type of Constructor Parameterized and Non Parameterized
+
+* If You Create an Object the Non parameterized Constructor execute automatically..
+

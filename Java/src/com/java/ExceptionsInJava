@@ -1,0 +1,26 @@
+Exceptions :
+=========
+
+Checked  and unChecked Example
+
+Checked Exceptions : (CompileTime Exception)
+==================
+
+* IO Exception
+* InterruptedException 
+* FileNotFound Exception
+* ClassNotFound Exception
+
+UnChecked Exceptions : (RunTime Exception)
+===================
+
+* Arithmetic Exception
+* InputMismatch Exception
+* IndexOutOfBounds Exception
+* ArrayIndexOutofBounds Exception
+* NullPointerException
+* StringIndexOutOfBounds Exception
+* NumberFormat Exception
+
+When an Exception occurs program will terminate at that time itself,
+but it can be handled.

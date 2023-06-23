@@ -1,0 +1,23 @@
+Abstraction :
+==========
+
+Hiding the Implementation Path
+
+
+* Abstract Class :
+===============
+
++ Its Support Abstract method and non Abstract Method 
+
++ extends
+
++ Partial Abstraction
+
+* Interface ;
+===========
+
++ Its Support Only Abstract Method
+
++ implements
+
++ Fully Abstraction

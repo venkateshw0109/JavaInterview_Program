@@ -1,0 +1,14 @@
+Exception Handling :
+=================
+
+* Try ---> Whenever the exception will occur we will use try block, it is
+used throw an error
+
+* Catch --->  Catch is a Block, it is going to catch the exception, it is
+used to handle error or exception
+
+* finally ---> It will execute the finally block,it does not consider
+whether the exception is handled or not
+
+...............................................................................
+...............................................................................
